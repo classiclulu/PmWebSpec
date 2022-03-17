@@ -12,8 +12,6 @@ class CIAdmin extends CI_Controller
     }
 
 	public function index(){
-		//$this->load->view('inc/h1.inc.php');
-			// Make sure you actually have some view file named 404.php
 		$this->load->view('404');
 	}
 
