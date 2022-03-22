@@ -9,9 +9,6 @@
 	{
 
  		$key = basename($filepath);
-
-	//	$IAM_KEY = 'AKIAIOOFOOXLP7IOMHMQ'; 
-	//	$IAM_SECRET = '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'; 
 		$bucket = $S3_bucket;
 		
 		try{
