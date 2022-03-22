@@ -3,7 +3,7 @@
             <h3>Useful Links</h3>
             <ul>
                 <li id="active"><a href="<?php echo base_url('help'); ?>" target="_blank" id="current">Help Guide</a></li>
-                <li><a href="mailto:mg-ds-pm@bms.com?subject=Web-based%20Spec%20Feedback">Send Feedback</a></li>
+                <li><a href="mailto:name@domain.com?subject=Web-based%20Spec%20Feedback">Send Feedback</a></li>
                 <li><a href="https://sites.bms.com/teams/cpms/di/default.aspx" target="_blank">Book of Work</a></li>
                 <li><a href="<?php echo base_url('about') ?>" target="_blank">About</a></li>
 			</ul>

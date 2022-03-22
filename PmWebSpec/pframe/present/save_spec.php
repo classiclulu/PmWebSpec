@@ -11,7 +11,6 @@
 			<legend><b>New Spec Created</b></legend>
 			<p><font size="5">Your Form Is Created Successfully.</font></p>
 			<p><font size="5"> Below is the Spec ID: </font></p>
-			<!-- <p><font size="5">The following Spec id is notify the DS team of the submission: <a href="mailto:mg-ds-pm@bms.com?subject=Web-based%20Spec%20Submission">mg-ds-pm@bms.com</a></font></p> -->
 			<p><font size="5"><?php echo "Specification ID: ". htmlspecialchars($spec_id); ?></font></p>
 		</fieldset>
 	</div>

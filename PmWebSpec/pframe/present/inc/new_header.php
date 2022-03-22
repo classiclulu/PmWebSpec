@@ -605,7 +605,7 @@
 					</li>
 
 					<li class="nav-item">
-						<a class="nav-link" href="mailto:mg-ds-pm@bms.com?subject=Web-based%20Spec%20Feedback">Send Feedback</a>
+						<a class="nav-link" href="mailto:name@domain.com?subject=Web-based%20Spec%20Feedback">Send Feedback</a>
 					</li>
 
 					<li class="nav-item">

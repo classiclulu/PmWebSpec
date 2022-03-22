@@ -32,7 +32,7 @@
 		
 		<div>
 			<br/>
-			<p><font size="5">You're not authorized to use this application. Please contact <a href="mailto:mg-ds-pm@bms.com?subject=Web-based%20Spec%20Access">mg-ds-pm@bms.com</a> for access! </font></p>
+			<p><font size="5">You're not authorized to use this application. Please contact <a href="mailto:name@domain.com?subject=Web-based%20Spec%20Access">name@domain.com</a> for access! </font></p>
 		</div>
 	</body>
 </html>
